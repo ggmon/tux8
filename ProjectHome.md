@@ -1,0 +1,5 @@
+Chip 8 emulator for Linux,
+Coded in C99 standard C,
+Graphics using X Library,
+Input using X Library,
+No sound support,
